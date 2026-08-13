@@ -1,0 +1,81 @@
+# Compiled class files
+
+*.class
+
+# Log files
+
+*.log
+
+# Java crash logs
+
+hs_err_pid*
+
+# IntelliJ IDEA
+
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Eclipse
+
+.classpath
+.project
+.settings/
+
+# NetBeans
+
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# VS Code
+
+.vscode/
+
+# Maven
+
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+
+# Gradle
+
+.gradle/
+build/
+
+# OS generated files
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment variables
+
+.env
+.env.*
+
+# Temporary files
+
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Backup files
+
+*.bak
+*.orig
+
+# Package files
+
+*.jar
+*.war
+*.ear
+*.zip
