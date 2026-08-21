@@ -1,4 +1,4 @@
-package section4_estrutura_sequencial;
+package secao1_estrutura_sequencial;
 // Entrada de dados em Java - Parte 02
 
 import java.util.Scanner;

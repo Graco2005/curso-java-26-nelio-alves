@@ -1,4 +1,4 @@
-package section4_estrutura_sequencial;
+package secao1_estrutura_sequencial;
 // Processamento de dados em Java / Casting
 public class Aula03 {
     public static void main(String[] args) {

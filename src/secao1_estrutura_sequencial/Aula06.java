@@ -1,4 +1,4 @@
-package section4_estrutura_sequencial;
+package secao1_estrutura_sequencial;
 // Funções matemáticas em Java
 
 public class Aula06 {

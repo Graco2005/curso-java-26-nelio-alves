@@ -1,4 +1,4 @@
-package section4_estrutura_sequencial;
+package secao1_estrutura_sequencial;
 // Entrada de dados em java - Parte 01
 
 import java.util.Locale;
