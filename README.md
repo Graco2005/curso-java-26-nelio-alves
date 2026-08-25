@@ -11,27 +11,27 @@ Este repositório contém todos os meus códigos, anotações e exercícios dese
 
 Aqui está a organização do repositório dividida pelos principais módulos e conceitos estudados:
 
-* [ ] **Módulo 1: Introdução à Programação**
+* [x] **Módulo 1: Introdução à Programação**
 
     * Conceitos básicos de programação
     * Estrutura de um programa Java
     * Variáveis e tipos de dados
     * Entrada e saída de dados
 
-* [ ] **Módulo 2: Estruturas de Controle**
+* [x] **Módulo 2: Estruturas de Controle**
 
     * Expressões e operadores
     * Estruturas condicionais (`if`, `else`, `switch`)
     * Estruturas de repetição (`while`, `for`, `do-while`)
 
-* [ ] **Módulo 3: Vetores e Matrizes**
+* [x] **Módulo 3: Vetores e Matrizes**
 
     * Arrays
     * Vetores
     * Matrizes
     * Percorrendo estruturas de dados
 
-* [ ] **Módulo 4: Programação Orientada a Objetos**
+* [x] **Módulo 4: Programação Orientada a Objetos**
 
     * Classes e objetos
     * Atributos e métodos
@@ -126,7 +126,7 @@ Para manter tudo organizado, os arquivos estão separados de acordo com os módu
 ## 🛠️ Tecnologias e Ferramentas
 
 * **Linguagem:** Java
-* **JDK:** Java 21
+* **JDK:** Java 26
 * **IDE:** IntelliJ IDEA
 * **Controle de Versão:** Git & GitHub
 * **Banco de Dados:** MySQL
