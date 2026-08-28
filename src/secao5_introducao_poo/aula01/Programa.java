@@ -23,16 +23,10 @@ public class Programa {
         y.ladoB = sc.nextDouble();
         y.ladoC = sc.nextDouble();
 
-        double p = (x.ladoA + x.ladoB + x.ladoC) / 2.0;
-        double areaX = Math.sqrt(p * (p - x.ladoA) * (p - x.ladoB) * (p - x.ladoC));
+        System.out.printf("Área do triângulo X: %.4f%n", x.area());
+        System.out.printf("Área do triângulo Y: %.4f%n", y.area());
 
-        p = (y.ladoA + y.ladoB + y.ladoC) / 2.0;
-        double areaY = Math.sqrt(p * (p - y.ladoA) * (p - y.ladoB) * (p - y.ladoC));
-
-        System.out.printf("Área do triângulo X: %.4f%n", areaX);
-        System.out.printf("Área do triângulo Y: %.4f%n", areaY);
-
-        if (areaX > areaY) System.out.println("Maior área: X");
+        if ( x.area() > y.area()) System.out.println("Maior área: X");
         else System.out.println("Maior área: Y");
 
         sc.close();
