@@ -1,7 +1,6 @@
-package secao7_comportamento_memoria_array_listas;
+package secao7_comportamento_memoria_array_listas.aula01;
 // Vetores
 
-import java.util.Arrays;
 import java.util.Locale;
 import java.util.Scanner;
 
