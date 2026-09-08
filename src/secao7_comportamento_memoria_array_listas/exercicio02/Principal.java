@@ -1,6 +1,5 @@
-package secao7_comportamento_memoria_array_listas.ex02;
+package secao7_comportamento_memoria_array_listas.exercicio02;
 
-import java.util.Arrays;
 import java.util.Locale;
 import java.util.Scanner;
 

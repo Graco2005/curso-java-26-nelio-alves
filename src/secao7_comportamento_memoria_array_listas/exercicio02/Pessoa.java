@@ -1,4 +1,4 @@
-package secao7_comportamento_memoria_array_listas.ex02;
+package secao7_comportamento_memoria_array_listas.exercicio02;
 
 public class Pessoa {
 
