@@ -11,14 +11,15 @@ Este repositório contém todos os meus códigos, anotações e exercícios dese
 
 Aqui está a organização do repositório dividida pelos principais módulos e conceitos estudados:
 
-* [x] **Módulo 1: Introdução à Programação**
+* [x] **Seção 1: Estrutura Sequencial**
 
-    * Conceitos básicos de programação
-    * Estrutura de um programa Java
-    * Variáveis e tipos de dados
-    * Entrada e saída de dados
+    * Expressões Aritméticas
+    * Variáveis e Tipos Básicos
+    * Entrada/Saída de Dados
+    * Processamento de Dados (Casting)
+    * Funções Matemáticas em Java
 
-* [x] **Módulo 2: Estruturas de Controle**
+* [x] **Seção 2: Estrutura Condicional**
 
     * Expressões e operadores
     * Estruturas condicionais (`if`, `else`, `switch`)
