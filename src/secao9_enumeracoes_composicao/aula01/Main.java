@@ -12,8 +12,8 @@ public class Main {
         OrderStatus os1 = OrderStatus.DELIVERED;
         OrderStatus os2 = OrderStatus.valueOf("DELIVERED");
 
-        System.out.println(os1);
-        System.out.println(os2);
+        System.out.println("OS1: " + os1);
+        System.out.println("OS2: " + os2);
 
     }
 }
