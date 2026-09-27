@@ -1,4 +1,4 @@
-package secao9_enumeracoes_composicao.aula02;
+package secao9_enumeracoes_composicao.exercicio_resolvido_01;
 
 import java.util.ArrayList;
 import java.util.Calendar;
