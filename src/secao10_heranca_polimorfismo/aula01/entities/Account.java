@@ -1,6 +1,6 @@
 package secao10_heranca_polimorfismo.aula01.entities;
 
-public class Account {
+public abstract class Account {
 
     private Integer number;
     private String holder;
