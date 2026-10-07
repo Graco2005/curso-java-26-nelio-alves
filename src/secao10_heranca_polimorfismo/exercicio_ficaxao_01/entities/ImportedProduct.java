@@ -1,4 +1,4 @@
-package secao10_heranca_polimorfismo.exercicio_ficaxao.entities;
+package secao10_heranca_polimorfismo.exercicio_ficaxao_01.entities;
 
 public class ImportedProduct extends Product {
 
